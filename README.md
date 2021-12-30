@@ -1,5 +1,26 @@
-### Hi there 👋
+## Hi, I'm Yotaro Tsukada!
 
+### About
+
+* 22 y/o web developer in Japan
+* Majoring in Chinese Philosophy at UTokyo
+* 
+
+### Tech stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Vue.js
+* Heroku
+
+### Now learning
+
+* Nuxt.js
+
+### Releases
+
+* [**Anywhere-Arcade**](http://anywhere-arcade.herokuapp.com/)
 <!--
 **yotarotsukada/yotarotsukada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
