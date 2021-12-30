@@ -24,7 +24,7 @@ Visit [my homepage](https://yotarotsukada.netlify.app/) for more info!
 
 ### Releases
 
-* [**Anywhere-Arcade**](http://anywhere-arcade.herokuapp.com/)
+* [**Anywhere-Arcade**](https://anywhere-arcade.herokuapp.com/)
 <!--
 **yotarotsukada/yotarotsukada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
